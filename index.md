@@ -1,4 +1,4 @@
 <!DOCTYPE html>
 <html>
-<title>Practice</title>
+<h1>Practice</h1>
 </html>
